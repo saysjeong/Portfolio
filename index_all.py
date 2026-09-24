@@ -55,9 +55,10 @@ with st.container():
     st.write("Open API를 활용해 최신 개별공시지가를 확인할 수 있습니다.")
     # 프로젝트 관련 링크나 버튼을 추가할 수 있습니다.
     st.button("프로젝트 1 상세보기", key="p1")
+    
     st.link_button(
     label="(프로젝트 1) 개별공시지가 조회 시스템 바로가기", 
-    url="https://landpriceproject-4aem4x4hcrskcadpxbaxb3.streamlit.app/"
+    url="https://landpriceproject-4aem4x4hcrskcadpxbaxb3.streamlit.app"         
 )
 
 
