@@ -50,9 +50,9 @@ st.subheader("🚀 Projects")
 
 # 프로젝트 1
 with st.container():
-    st.markdown("### 1. 개인 일정 관리 웹 앱")
+    st.markdown("### 1. 개별공시지가 조회 시스템")
     st.write("**사용 기술:** Python, Streamlit")
-    st.write("사용자가 일정을 등록하고 확인할 수 있는 미니멀한 웹 애플리케이션입니다. 직관적인 UI를 목표로 제작했습니다.")
+    st.write("Open API를 활용해 최신 개별공시지가를 확인할 수 있습니다.")
     # 프로젝트 관련 링크나 버튼을 추가할 수 있습니다.
     st.button("프로젝트 1 상세보기", key="p1")
 
