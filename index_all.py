@@ -57,8 +57,8 @@ with st.container():
     # st.button("프로젝트 1 상세보기", key="p1")
     
     st.link_button(
-    label="(프로젝트 1) 개별공시지가 조회 시스템 바로가기", 
-    url="https://landpriceproject-4aem4x4hcrskcadpxbaxb3.streamlit.app"         
+        label="(프로젝트 1) 개별공시지가 조회 시스템 바로가기", 
+        url="https://landpriceproject-4aem4x4hcrskcadpxbaxb3.streamlit.app"         
 )
 
 
