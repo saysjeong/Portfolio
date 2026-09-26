@@ -72,7 +72,7 @@ with st.container():
     
     st.link_button(
         label="(프로젝트 2) 개별공시지가 조회 시스템 테스트",
-        url="                  ")
+        url="https://landpriceproject-landpriceproject-cxafrytbsbvi93jnqv86dv.streamlit.app")
 
 # 6. 하단 푸터
 st.markdown("---")
