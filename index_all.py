@@ -69,7 +69,10 @@ with st.container():
     st.markdown("### 2. 날씨 정보 시각화 대시보드")
     st.write("**사용 기술:** Python, Requests, Streamlit")
     st.write("Open API를 활용해 실시간 날씨 데이터를 가져와 그래프와 아이콘으로 시각화해 주는 대시보드입니다.")
-    st.button("프로젝트 2 상세보기", key="p2")
+    
+    st.link_button(
+        label="(프로젝트 2) 개별공시지가 조회 시스템 테스트",
+        url="                  ")
 
 # 6. 하단 푸터
 st.markdown("---")
